@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html Lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>E-store</title>
+    </head>
+  <body>
+    <div class="container">
+    <div class="navbar">
+      <div class="logo">
+        <link rel="file:///Users/anurag/Downloads/How-to-Keep-Your-E-Commerce-System-Funtioning-at-Optimum-Capacity.png" width="125px">
+        </div>
+      <nav>
+        <ul>
+          <li><a href="">home</a></li>
+          <li><a href="">product</a></li>
+          <li><a href="">about</a></li>
+          <li><a href="">contact</a></li>
+          <li><a href="">account</a></li>
+        </ul>
+      </nav>
+      </div>
+      <div class="row">
+        <div class="col-2">
+          <h1>get your product <br>at your door</h1>
+          <p>write a tagline here</p>
+          <a href="" class="btn">explore now</a> 
+          </div>
+        <div class="col-2">
+          <img src="">
+      </div>
+   
+  
+  </body>
+  </html>
+    
